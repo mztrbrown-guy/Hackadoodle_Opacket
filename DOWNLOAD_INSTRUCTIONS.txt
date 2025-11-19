@@ -1,0 +1,83 @@
+═══════════════════════════════════════════════════════════════════
+   SMART DISPATCH OPTIMIZER - DOWNLOAD INSTRUCTIONS
+═══════════════════════════════════════════════════════════════════
+
+Due to file size limits, the application is split into multiple parts.
+
+═══════════════════════════════════════════════════════════════════
+
+📥 STEP 1: DOWNLOAD ALL PARTS
+──────────────────────────────
+
+Download ALL of these files to the SAME folder:
+
+  ☑️ SmartDispatchOptimizer_Part01.zip
+  ☑️ SmartDispatchOptimizer_Part02.zip
+  ☑️ SmartDispatchOptimizer_Part03.zip
+  ☑️ SmartDispatchOptimizer_Part04.zip
+  ☑️ SmartDispatchOptimizer_Part05.zip
+  ☑️ SmartDispatchOptimizer_Part06.zip
+  ☑️ combine_parts.bat (the combination script)
+
+⚠️ IMPORTANT: You MUST download ALL parts!
+
+═══════════════════════════════════════════════════════════════════
+
+🔗 STEP 2: COMBINE THE PARTS
+─────────────────────────────
+
+After downloading all parts to the same folder:
+
+1. Double-click: combine_parts.bat
+2. Wait 5-10 seconds
+3. Done! You'll have: SmartDispatchOptimizer_Distribution.zip
+
+═══════════════════════════════════════════════════════════════════
+
+📂 STEP 3: EXTRACT AND USE
+───────────────────────────
+
+1. Right-click SmartDispatchOptimizer_Distribution.zip
+2. Select "Extract All..."
+3. Choose a location (e.g., Desktop)
+4. Open START_HERE.txt for setup instructions
+
+═══════════════════════════════════════════════════════════════════
+
+❓ TROUBLESHOOTING
+──────────────────
+
+"combine_parts.bat says missing files"
+  → Make sure ALL 6 part files are in the same folder
+  → Check your Downloads folder
+  → Some browsers rename files - check for duplicates
+
+"The combined file won't extract"
+  → Make sure you downloaded all parts completely
+  → Re-download any parts that seem too small
+  → Check your internet connection
+
+"Parts are different sizes - is that normal?"
+  ✅ YES! The parts are:
+     - Part01-05: ~20 MB each
+     - Part06: Smaller (remaining data)
+
+═══════════════════════════════════════════════════════════════════
+
+💡 ALTERNATIVE: Use Cloud Storage Link
+───────────────────────────────────────
+
+If available, ask for a OneDrive/Google Drive link instead.
+This lets you download the complete file in one go!
+
+═══════════════════════════════════════════════════════════════════
+
+📧 Need Help?
+─────────────
+
+Contact the person who shared this application with you.
+
+═══════════════════════════════════════════════════════════════════
+
+Version: 2.1 | Size: 113.5 MB (split into 6 parts of ~20 MB each)
+
